@@ -6,7 +6,7 @@ My portfolio for Dev5, including all my lab projects
 
 ## Week 2 - ES6
 * Lab2 github: https://github.com/Cournflaeik/Labo2_ES6
-* Lab2 sandbox: https://codesandbox.io/s/elien-de-geetere-labo2-es6-yjnntx
+* Lab2 vercel: https://labo2-es-6.vercel.app/
 
 ## Week 2 - Discovered feature:
 Heb je ooit een nummer langer willen maken dan het is?
