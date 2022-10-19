@@ -26,3 +26,7 @@ console.log(verborgenBankrekening);
 //output = ************5656 
 
 ```
+
+## Week 4 - API
+* Lab3 github: https://github.com/Cournflaeik/Labo3_API
+* Lab3 vercel: https://labo3-api.vercel.app
